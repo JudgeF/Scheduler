@@ -1,6 +1,10 @@
 {
 	"Scheduler": [{
-		"SchedulerID": 1
+		"SchedulerID": 1,
+		"SchedulerName": "test1",
+		"StatusID": 2,
+		"RunInterval": 0,
+		"ModifiedBy": "TWD_SP"
 	}
 ]
 }
