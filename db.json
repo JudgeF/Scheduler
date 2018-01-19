@@ -4,28 +4,24 @@
 		"SchedulerName": "test1",
 		"StatusID": 2,
 		"RunInterval": 0,
-		"LastModification": "2016-07-15T14:32:07.3330000",
 		"ModifiedBy": "TWD_SP"
 	}, {
 		"SchedulerID": 5,
 		"SchedulerName": "test2",
 		"StatusID": 3,
 		"RunInterval": 8,
-		"LastModification": "2017-07-15T14:32:07.3330000",
 		"ModifiedBy": "TWD_SP"
 	}, {
 		"SchedulerID": 1,
 		"SchedulerName": "test3",
 		"StatusID": 1,
 		"RunInterval": 0,
-		"LastModification": "2016-07-15T14:32:07.3330000",
 		"ModifiedBy": "TWD_SP"
 	}, {
 		"SchedulerID": 4,
 		"SchedulerName": "test4",
 		"StatusID": 1,
 		"RunInterval": 0,
-		"LastModification": "2016-11-29T14:38:21.3300000",
 		"ModifiedBy": "TWD_SP"
 	}]
 }
