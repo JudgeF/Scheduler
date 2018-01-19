@@ -1,6 +1,5 @@
 {
 	"Scheduler": [{
-		"Scheduler": [{
 		"SchedulerID": 1,
 		"SchedulerName": "test1",
 		"StatusID": 2,
@@ -8,9 +7,9 @@
 		"RunInterval": 0,
 		"LastModification": "2016-07-15 14:32:07.3330000",
 		"ModifiedBy": "TWD_SP"
-	},
-			      {
-		"SchedulerID": 5,
+	}, 
+		      
+	{	"SchedulerID": 5,
 		"SchedulerName": "test2",
 		"StatusID": 3,
 		"LastRun": "2016-07-15 14:32:07.1680000",
@@ -18,5 +17,5 @@
 		"LastModification": "2017-07-15 14:32:07.3330000",
 		"ModifiedBy": "TWD_SP"
 	}
-	]
-}
+]
+}	
