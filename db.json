@@ -7,15 +7,7 @@
 		"RunInterval": 0,
 		"LastModification": "2016-07-15 14:32:07.3330000",
 		"ModifiedBy": "TWD_SP"
-	}, 
-		      
-	{	"SchedulerID": 5,
-		"SchedulerName": "test2",
-		"StatusID": 3,
-		"LastRun": "2016-07-15 14:32:07.3330000",
-		"RunInterval": 8,
-		"LastModification": "2016-07-15 14:32:07.3330000",
-		"ModifiedBy": "TWD_SP"
 	}
+		  
 ]
 }	
