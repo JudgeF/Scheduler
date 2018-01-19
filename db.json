@@ -1,10 +1,12 @@
 {
 	"Scheduler": [{
+		"Scheduler": [{
 		"SchedulerID": 1,
 		"SchedulerName": "test1",
 		"StatusID": 2,
+		"LastRun": "2016-07-15 14:32:07.1680000",
 		"RunInterval": 0,
-		"LastModification": 151628558,
+		"LastModification": "2016-07-15 14:32:07.3330000",
 		"ModifiedBy": "TWD_SP"
 	}
 	]
